@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Fri Jul 10 16:16:03 2020
-
-@author: sadievrenseker
-"""
 
 
 
