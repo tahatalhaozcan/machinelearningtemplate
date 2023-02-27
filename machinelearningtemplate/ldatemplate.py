@@ -2,11 +2,7 @@
 
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Sun Jul  8 10:03:40 2018
 
-@author: sadievrenseker
-"""
 
 #1. kutuphaneler
 import numpy as np
