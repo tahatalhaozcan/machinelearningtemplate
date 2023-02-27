@@ -1,9 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Thu Aug 15 04:18:20 2018
 
-@author: sadievrenseker
 """
 from keras.models import Sequential
 from keras.layers import Convolution2D
